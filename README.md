@@ -31,12 +31,12 @@
 
 ---
 
-#Key Features
+## Key Features
 
 * Creation of a strong password (+8 characters, at least a digit and an uppercase)
 * Generated password contains three to five random English words
 
-#How To Use
+## How To Use
 
 To clone and run this program, you'll need [Git](https://git-scm.com) and [Python](https://www.python.org/downloads/) installed on your computer. From your command line:
 
@@ -66,18 +66,18 @@ There is no available release yet.
     └── sources              <- All the code to run the project
         └── main.py
 
-#Credits
+## Credits
 
 This software uses the following open source API:
 
 - [Random Word API](https://github.com/RazorSh4rk/random-word-api)
 
-#Support
+## Support
 
 You can give this repo a star or watch it. If you want to help me to improve with this project, feel free to create an issue!
 
 
-#You may also like...
+## You may also like...
 
 - [Bob le Dev](https://github.com/MatthieuRochette) - A Python enthusiast I loved to gently torture with git commit norms when he was my intern.
 - [Vikka](https://github.com/Vikka) - Another Python enthusiast, expert and teacher I enjoyed to hear about his favorite language.
