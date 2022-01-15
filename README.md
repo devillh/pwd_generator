@@ -1,23 +1,23 @@
-<div style="text-align:center; margin-top: -7em; margin-bottom: -5em;">
+<div align=center>
 
 ![gif](https://raw.githubusercontent.com/devillh/pwd_generator/main/assets/spinning_crystals.gif)
-</div>
-<h1 style="text-align:center; margin-top: -5em; margin-bottom: -0.5em">
+
+<h1>
     < PWD_GENERATOR >
 </h1>
-<h6 style="text-align:center">A program generating a strong password, just for fun.</h6>
-
-<div style="text-align:center; margin-bottom: 1.5em; margin-top: 2em">
-  <a href="https://lbesson.mit-license.org/">
-      <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT Licence badge">
-  </a>
-  <a href="https://github.com/devillh">
-      <img src="https://img.shields.io/badge/Made%20with-💛-674ea7" alt="Made with love">
-  </a>
-</div>
-<div style="text-align:center">
-
+<h6>A program generating a strong password, just for fun.</h6>
+<a href="https://lbesson.mit-license.org/">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT Licence badge">
+</a>
+<a href="https://github.com/devillh">
+  <img src="https://img.shields.io/badge/Made%20with-💛-674ea7" alt="Made with love">
+</a>
+<br/>
+<br/>
+<br/>
+    
 ![gif](https://raw.githubusercontent.com/devillh/pwd_generator/main/assets/password_length_security.gif)
+<br/>
 </div>
 
 
@@ -74,6 +74,7 @@ There is no available release yet.
     ├── README.md           <- The documentation to use the project
     ├── LICENCE             <- MIT licence
     ├── Lib                 <- All necessary Python libraries
+    ├── assets              <- Images and sounds
     └── sources             <- All the code to run the project
         └── main.py
 
