@@ -1,6 +1,6 @@
 <div style="text-align:center; margin-top: -7em; margin-bottom: -5em;">
 
-![spinning crystals](https://i.gifer.com/ZMQy.gif)
+![spinning crystals](https://raw.githubusercontent.com/devillh/pwd_generator/main/assets/spinning_crystals.gif)
 </div>
 <h1 style="text-align:center; margin-top: -5em; margin-bottom: -0.5em">
     < PWD_GENERATOR >
@@ -17,7 +17,7 @@
 </div>
 <div style="text-align:center">
 
-![password length security](https://i.gifer.com/7SK9.gif)
+![password length security](https://raw.githubusercontent.com/devillh/pwd_generator/main/assets/password_length_security.gif)
 </div>
 
 
